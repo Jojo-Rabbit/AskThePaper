@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+uploads/
+chroma_db/
+*.pdf
+.DS_Store
